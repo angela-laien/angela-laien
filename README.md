@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Angela Laien Xie!](https://www.angelalaienxie.com/)👋
 
 - 🔭 I’m currently working on Leetcode problems.
 - 🌱 I’m currently learning everything 🤣.
