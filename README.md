@@ -9,7 +9,6 @@
 <a href="https://https://www.facebook.com/angela.xie2">
   <img align="center" alt="Laien's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
 </br>
 
 - 🔭 I’m currently working on Leetcode problems.
@@ -17,7 +16,7 @@
 - 👯 I’m looking to collaborate on JavaScript/SQL/Python Projects.
 - 🤔 I’m looking for help with JavaScript/SQL/Python Projects.
 - 💬 Ask me about HTML/CSS/React/Node related stuffs.
-- 📫 How to reach me: www.linkedin.com/in/angelalaienxie
+- 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring the coolest, hottest, and newest restaurants around me.
 
