@@ -1,5 +1,17 @@
 ### Hi there, I'm [Angela Laien Xie!](https://www.angelalaienxie.com/)👋
 
+<a href="https://linkedin.com/in/angelalaienxie/">
+  <img align="center" alt="Laien's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/angela_laien/">
+  <img align="center" alt="Laien's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://https://www.facebook.com/angela.xie2">
+  <img align="center" alt="Laien's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+</br>
+
 - 🔭 I’m currently working on Leetcode problems.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate on JavaScript/SQL/Python Projects.
