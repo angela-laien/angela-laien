@@ -26,7 +26,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angela-laien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/angela-laien/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-laien&theme=light&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-laien&theme=dark&hide_langs_below=1" />
 
 <!--
 **angela-laien/angela-laien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
