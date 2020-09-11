@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on Leetcode problems.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate on JavaScript/SQL/Python Projects.
-- 🤔 I’m looking for help with JavaScript/SQL/Python Projects.
+- 🤔 I’m looking for help with getting a job.
 - 💬 Ask me about HTML/CSS/React/Node related stuffs.
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
