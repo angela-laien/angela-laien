@@ -13,10 +13,10 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Leetcode problems.
+- 🔭 I’m currently working on Leetcode problems and improving my freestyle kitchen app features.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate on JavaScript/SQL/Python Projects.
-- 🤔 I’m looking for help with getting a job.
+- 🤔 I’m looking for help with adding a resuable ingredients sql table and a step by step cooking instructions feature to my app.
 - 💬 Ask me about HTML/CSS/React/Node related stuffs.
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
