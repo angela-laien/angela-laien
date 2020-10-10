@@ -13,7 +13,7 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Leetcode problems and improving my freestyle kitchen app features.
+- 🔭 I’m currently working on Leetcode problems, improving my freestyle kitchen app features, and learning Data Science/Business analytics.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate on JavaScript/SQL/Python Projects.
 - 🤔 I’m looking for help with adding a resuable ingredients sql table and a step by step cooking instructions feature to my app.
