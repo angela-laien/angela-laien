@@ -20,7 +20,7 @@
 - 💬 Ask me about HTML/CSS/React/Node related stuffs.
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring the coolest, hottest, and newest restaurants around me.
+- ⚡ Fun fact: I love traveling.
 
 ### Languages and Tools:
 
