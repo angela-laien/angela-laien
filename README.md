@@ -13,11 +13,8 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Leetcode problems and flask app with data analysis.
-- 🌱 I’m currently learning Data Science and Business analytics.
-- 👯 I’m looking to collaborate on JavaScript/SQL/Python Projects.
-- 🤔 I’m looking for help with making dynamic graphs using python.
-- 💬 Ask me about HTML/CSS/React/Node related stuffs.
+- 🔭 I’m currently working on Leetcode problems and e-commerce app.
+- 🌱 I’m currently learning Data analysis and UX/UI design.
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love traveling.
