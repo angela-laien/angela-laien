@@ -13,11 +13,8 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Leetcode problems and e-commerce app.
-- 🌱 I’m currently learning Data analysis and UX/UI design.
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love traveling.
 
 ### Languages and Tools:
 
