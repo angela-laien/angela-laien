@@ -12,7 +12,6 @@
 
 </br>
 </br>
-
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
 
