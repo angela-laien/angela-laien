@@ -16,7 +16,7 @@
 </br>
 - 😄 Pronouns: She/Her
 </br>
-- 🔭 I’m temporarily working at the Kaiser San Francisco Covid19 Vaccination Center 12 hours a day, 4 days a week as a patient registrar; therefore, I only ship code on my days off work.
+- 🔭 I’m temporarily working at the Kaiser San Francisco Covid19 Vaccination Center 12 hours a day and 4 days a week as a patient registrar; therefore, I only ship code on my days off work.
 
 ### Languages and Tools:
 
