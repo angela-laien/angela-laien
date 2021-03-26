@@ -14,6 +14,7 @@
 </br>
 - 📫 How to reach me: laienxie@gmail.com
 - 😄 Pronouns: She/Her
+- 🔭 I’m temporarily working at the Kaiser San Francisco Covid19 Vaccination Center 12 hours a day, 4 days a week as a patient registrar; therefore, I only ship code during my days off.
 
 ### Languages and Tools:
 
