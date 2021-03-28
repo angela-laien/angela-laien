@@ -16,7 +16,11 @@
 </br>
 - 😄 Pronouns: She/Her
 </br>
-- 🔭 I’m temporarily working at the Kaiser San Francisco Covid19 Vaccination Center 12 hours a day and 4 days a week as a patient registrar; therefore, I only ship code on my days off work.
+- 🔭 I’m currently working on a react/node full stack ecommerce project
+</br>
+- 🌱 I’m currently learning data visualization with D3.js
+</br>
+- ⚡ Fun fact: I’m temporarily working at the Kaiser San Francisco Covid19 Vaccination Center 12 hours a day and 4 days a week as a patient registrar; therefore, I only ship code on my days off work.
 
 ### Languages and Tools:
 
