@@ -16,8 +16,6 @@
 - 🔭 I’m currently working on a react/node full stack ecommerce project
 </br>
 - 🌱 I’m currently learning data visualization with D3.js
-</br>
-- ⚡ Fun fact: I’m temporarily working at the Kaiser San Francisco Covid Vaccination Center 12 hours a day 4 days a week as a patient registrar.
 
 ### Languages and Tools:
 
