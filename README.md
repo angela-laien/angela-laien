@@ -15,7 +15,7 @@
 </br>
 - 🔭 I’m currently working on a react/node full stack ecommerce project
 </br>
-- 🌱 I’m currently learning data visualization with D3.js
+- 🌱 I’m currently taking lessons for Google UX Design Professional Certificate.
 
 ### Languages and Tools:
 
