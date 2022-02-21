@@ -8,8 +8,6 @@
 </a>
 
 </br>
-</br>
-</br>
 - 😄 Pronouns: She/Her
 </br>
 
