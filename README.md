@@ -9,7 +9,6 @@
 
 </br>
 </br>
-- 📫 How to reach me: laienxie@gmail.com
 </br>
 - 😄 Pronouns: She/Her
 </br>
