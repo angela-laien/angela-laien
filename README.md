@@ -13,9 +13,6 @@
 </br>
 - 😄 Pronouns: She/Her
 </br>
-- 🔭 I’m currently working on a react/node full stack ecommerce project
-</br>
-- 🌱 I’m currently taking lessons for Google UX Design Professional Certificate.
 
 ### Languages and Tools:
 
